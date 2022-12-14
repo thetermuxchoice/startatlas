@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" class="bgNoise">
+<head>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-5CL49PB"></script>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=no"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#151519">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#151519">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+
+            
+                                    
+    
+            <title>Disclaimer | StarPath | Star Atlas</title>
+    
+    <meta name="description" content="A next-gen referral program built for web3 communities.">
+    <meta property="og:description" content="A next-gen referral program built for web3 communities.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://staratlas.com/starpath">
+    <meta property="og:image" content="https://staratlas.com/assets/images/star_atlas_social_share.png">
+
+    <meta name="twitter:title" content="Disclaimer | StarPath | Star Atlas">
+    <meta name="twitter:description" content="A next-gen referral program built for web3 communities.">
+    <meta name="twitter:site" content="@staratlas">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://staratlas.com/assets/images/star_atlas_social_share.png">
+
+        <link rel="stylesheet" href="/build/css/starpath-6ee3abcf3c.css" crossorigin>
+    
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js"></script>
+    <script>Bugsnag.start({ apiKey: 'cc79bddd30a7b7e3b7f54a0d7a7b856a' })</script>
+    <script>
+        const SFEventUrl = window.location.href.indexOf('website-tracking') > -1 ?
+            'https://dev.api.signalfox.com/api/v2/web_events/' : '';
+        window.SFLoad = window.location.href.indexOf('staratlas.com') > -1 || SFEventUrl !== '' ? true : false;
+
+        if (window.SFLoad) {
+            window.sfInit = function() {
+                sf.init({
+                    appId : '248d43d3-d337-4751-a85e-0d2cd403f231',
+                    context : '',
+                    eventUrl : SFEventUrl
+                });
+
+                window.sf = sf;
+            };
+            (
+                function(w,d,o){
+                    var a = d.createElement(o);
+                    a.async=1;
+                    a.src='https://signalfox.com/signalfoxv2.js';
+                    var m = d.getElementsByTagName(o)[0];
+                    m.parentNode.insertBefore(a,m)
+                }
+            )(window,document,'script');
+        }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Ads: 329158883 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-329158883"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-329158883');
+    </script>
+</head>
+        <body class="">
+<div class="wrapper">
+    <div id="cover-spin"></div>
+    <header>
+        <a href="https://play.staratlas.com/" class="logo"><img src="/images/logo.png" alt="Star Atlas" /></a>
+    </header>
+
+    <main>
+                <div class="header" style=background-image:url(//images.ctfassets.net/2kg7h835bpe1/4ZtHvHiVFSXY4Ic5MbpVwk/714a559f2882151324564bed6192e4a4/starpath-bg.png?w=1920&amp;h=1080&amp;fm=png&amp;fit=fill)>
+            <div class="header-overlay"></div>
+            <div class="header-logo-container">
+                <div class="header-logo">
+                    <a href="/starpath" title="StarPath">
+                        <img src="/images/starpath/starpath-logo-text.png" alt="Star Path" />
+                    </a>
+                </div>
+            </div>
+                        <div class="tagline">Player Referral Program</div>
+                    </div>
+        
+                
+        <div class="container">
+                                            <section id="intro">
+                    <div class="intro-content">
+                                                <h1 class="title">Disclaimer</h1>
+                                                                    </div>
+                </section>
+                            
+                        
+                                            <section class="page">
+                                        <div class="body">
+                                                                                                                <div class="module markdown-module ">
+    <div class="module-body"><h2>STARPATH REFERRAL PROGRAM: RULES</h2>
+<p>&nbsp;</p>
+<ol>
+<li><span>NO PURCHASE NECESSARY TO ENTER THE STARPATH REFERRAL PROGRAM (“PROGRAM”)</span>.  Participation in the Program constitutes your acceptance of these Rules and your acceptance of the Affiliate Program Operating Agreement, at <a href="https://star-atlas.everflowclient.io/affiliate/signup">https://star-atlas.everflowclient.io/affiliate/signup</a>.</li>
+<li><span>ELIGIBILITY:</span>  Open to persons ages 18 and up with a valid email address and mailing address, except for employees or contractors of ATMTA, Inc. (<strong>“Sponsor”</strong>) or their affiliates, subsidiaries, and agencies (collectively <strong>“Promotion Parties”</strong>), and members of their immediate family or persons living in the same household.  Void where prohibited.</li>
+<li><span>PROGRAM OBJECTIVE:</span>  The objective of the Program is to allow participants (<strong>“Participants”</strong>) to obtain rewards for referring new people to participate in the Star Atlas ecosystem and make purchases on the Star Atlas marketplace, which is available at play.staratlas.com (<strong>“Galactic Marketplace”</strong>).  For further detail, please see <a href="https://medium.com/star-atlas">[Medium post]</a>.</li>
+<li><span>HOW TO ENTER:</span>  Navigate to the signup page at <a href="https://star-atlas.everflowclient.io/affiliate/signup">https://star-atlas.everflowclient.io/affiliate/signup</a> and follow the on-screen signup instructions.  Fill in all required information.  Each person may enter only once.</li>
+<li><span>PROGRAM RULES:</span>  Participants will receive a unique link (<strong>“Referral Link”</strong>) that they can share via social media resources or otherwise to any referred persons (<strong>“Referrals”</strong>), who may include friends or family.</li>
+</ol>
+<ol type="a" class="sub-list">
+  <li>Participants shall receive credit called prosperity marks (<strong>“Prosperity Marks”</strong>) for Referrals who (1) successfully complete a signup process using the participant’s Referral Link and (2) make qualifying purchases on the Galactic Marketplace.</li>
+<li>Prosperity Marks may be exchanged for qualifying in-game assets (<strong>“Rewards”</strong>), including non-fungible tokens representing Star Atlas ships, only while supplies last.</li>
+<li>Factions (ONI, MUD, or Ustur) will receive a special reward for earning the most Prosperity Marks in a given quarter as outlined in <a href="https://medium.com/star-atlas">[Medium post]</a>.</li>
+<li>The rate at which a Participant earns Prosperity Marks shall increase depending on the Participant’s referral activity based on defined reward tiers (<strong>“Reward Tiers”</strong>) as set forth in <a href="https://medium.com/star-atlas">[Medium post]</a> and as Sponsor may update from time to time.</li>
+<li>Reward Tiers shall reset on January 1 at 12:01 a.m. ET each year.</li>
+<li>Details about the Prosperity Marks and Reward Tiers are outlined in <a href="https://medium.com/star-atlas">[Medium post]</a>, which may be updated or superseded from time to time by Sponsor in its sole discretion.  Sponsor reserves the right in its sole discretion to modify the Program Rules.</li>
+<li>Sponsor reserves the right to disqualify any Participant for any reason, in its sole and absolute discretion.</li>
+</ol>
+<ol>
+<li><span>PARTICIPANT NOTIFICATION:</span>  Participant will be required to provide an email and mailing address which will be used to fulfill Rewards and ensure eligibility to receive Rewards.  At the discretion of Sponsor, a Participant may be disqualified if not eligible based on the eligibility requirements set forth above.  In the event it is determined that a Participant has not complied with these Rules, has failed to execute and return any required documents within the specified time period, has made false statements, or a Reward notification is returned as undeliverable, then the Participant will be disqualified and at Sponsor’s sole discretion.</li>
+<li><span>REWARDS &amp; APPROXIMATE RETAIL VALUE:</span>  The specific Rewards, number of Rewards, and approximate retail value (“ARV”) are outlined in <a href="https://medium.com/star-atlas">[Medium post]</a>. Participant is solely responsible for all expenses, costs, or fees associated with transportation and acceptance and/or use of Rewards not specified herein as being awarded, including without limitation, any and all taxes (if any).  Upon fulfilling Reward delivery, Sponsor will be deemed to have awarded the Reward to the Participant and such Participant assumes full responsibility for the Reward. All Reward details are at Sponsor’s sole discretion.
+Participants acknowledge that Sponsor reserves the right to, at its discretion, reschedule the Program, modify the entry procedures, or cancel the Program.  Reward(s) are not redeemable for cash.  A limited number of Rewards are available under the Program.  Substitution or transfer of a Reward by a Participant is not permitted.  Sponsor reserves the right to substitute a Reward of equal or greater value.</li>
+<li><span>GENERAL CONDITIONS:</span>  Sponsor and its respective officers, directors, agents, representatives, and employees (collectively, <strong>“Released Parties”</strong>) are not responsible for lost, late, misdirected, damaged, stolen, altered, garbled, incorrect, incomplete, or delayed entries; all of which will be void.  Released Parties are also not responsible for problems related to technical malfunctions of electronic equipment, computer online systems, servers, or providers, computer hardware or software failures, phone lines, failure of any Entry to be received by Sponsor on account of technical problems, traffic, congestion on the internet or the website, or for any other technical problems including telecommunication, miscommunication or failure, and failed, lost, delayed, incomplete, garbled, or misdirected communications which may limit a Participant’s ability to participate in this Program.  Released Parties are not responsible for any other errors or malfunctions of any kind, whether network, printing, typographical, human, or otherwise relating to or in connection with the Program, including, without limitation, errors or malfunctions with may occur in connection with the administration of the Program, the processing or judging of entries, the announcement of the Rewards, or in any Program-related materials.  Mass entries generated by a script, macro, or use of automated devices will be disqualified.  Sponsor reserves the right to modify, suspend, or terminate the Program in the event it becomes technically impaired, and to cancel or suspend the Program in its entirety should tampering, unauthorized intervention, fraud, technical failures, or other causes corrupt the administration, security, fairness, integrity, or proper play of the Program.  In the event of a dispute regarding entries received from multiple users having the same email account, the authorized subscriber of the email account at the time of entry will be deemed to be the Participant and must comply with these Rules.  Authorized subscriber is the natural person who is assigned the email address by the Internet Service Provider (ISP), online service provider, or other organization responsible for assigning email addresses.  Sponsor reserves the right at its sole discretion to disqualify any individual (and void his/her entries) it finds to be tampering with the entry process or the operation of this Program or website, intending to annoy, abuse, threaten, or harass any other Participant, Sponsor, or any of its representatives or to otherwise be acting in violation of these Rules.  CAUTION: Any attempt by a Participant to deliberately damage any website or undermine the legitimate operations of the Program is a violation of criminal and civil laws.  Should such an attempt be made, the Sponsor reserves the right to seek damages from any such Participant to the fullest extent permitted by the law and to disqualify such Participant from the Program.</li>
+<li><span>MISCELLANEOUS CONDITIONS:</span>  Failure to comply with these Rules may result in disqualification from the Program.  Sponsor reserves the right to permanently disqualify any person it believes has intentionally violated these Rules.  Program is subject to all federal, state, and local laws and regulations.  Void where prohibited by law.</li>
+<li><span>RELEASES:</span>  Information submitted with an entry is subject to the Star Atlas Privacy Policy located at <a href="https://staratlas.com/privacy-policy">https://staratlas.com/privacy-policy</a>.  Please review the Privacy Policy.</li>
+<li><span>ARBITRATION &amp; CHOICE OF LAW:</span>  Except where prohibited by law, as a condition of participating in this Program, Participant agrees that (1) any and all disputes and causes of action arising out of or connected with this Program, or any Rewards awarded, shall be resolved individually, without resort to any form of class action lawsuit, and exclusively by final and binding arbitration under the rules of the American Arbitration Association and held at the AAA regional office nearest the Participant; (2) the Federal Arbitration Act shall govern the interpretation, enforcement, and all proceedings at such arbitration; and (3) judgment upon such arbitration award may be entered in any court having jurisdiction.  Under no circumstances will Participant be permitted to obtain awards for, and Participant hereby waives all rights to claim, punitive, incidental, or consequential damages, or any other damages, including attorneys’ fees, other than Participant’s actual out-of-pocket expenses (i.e., costs associated with entering this Program), and Participant further waives all rights to have damages multiplied or increased.  All issues and questions concerning the construction, validity, interpretation, and enforceability of these Rules, or the rights and obligations of Participants and Sponsor in connection with this Program, shall be governed by, and construed in accordance with, the substantive laws of the State of New York, USA without regard to New York choice of law rules.</li>
+<li><span>SPONSOR:</span>  ATMTA, Inc., 10845 Griffith Peak Dr. Ste. 2, Las Vegas, NV 89135.</li>
+</ol>
+</div>
+</div>                                                                        </div>
+                </section>
+                            
+                                            <section class="bottom">
+                    <div class="content">
+                                                                                                <div class="module markdown-module ">
+    <div class="module-body"><div class="button-group">
+  <a href="/starpath" class="button button-alt">StarPath</a>
+</div>
+<p><a href="https://support.staratlas.com/knowledge" target="_blank" class="help-link">
+<span class="help-icon"></span>
+<span>Questions? Visit the Knowledge Base</span>
+</a></p>
+</div>
+</div>                                                                </div>
+                </section>
+                                    </div>
+    </main>
+</div>
+<footer>
+    <div class="footer-nav">
+        <ul class="footer-nav-left">
+            <li><a href="/terms-of-service" title="Terms of Service">Terms of Service</a></li>
+            <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+            <li><a href="/starpath/disclaimer" title="Disclaimer">Disclaimer</a></li>
+        </ul>
+        <ul class="footer-nav-right">
+                <li><a href="https://www.staratlas.com/" title="StarAtlas.Com">StarAtlas.com</a></li>
+                <li><a href="https://play.staratlas.com/" title="Play StarAtlas">Play.StarAtlas.com</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<script type="module" src="/build/js/starpath-004643bb33.js" crossorigin></script>
+
+<script>
+function gtag_report_conversion(url) {
+    var callback = function () {
+        if (typeof(url) != 'undefined') {
+            window.location = url;
+        }
+    };
+    gtag('event', 'conversion', {
+        'send_to': 'AW-329158883/MLgrCM3Or48DEOOh-pwB',
+        'event_callback': callback
+    });
+    return false;
+}
+</script>
+</body>
+</html>

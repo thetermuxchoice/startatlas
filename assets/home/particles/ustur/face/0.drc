@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en" class="bgNoise">
+<head>
+	<script src="https://www.googleoptimize.com/optimize.js?id=OPT-5CL49PB"></script>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=no"/>
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#151519">
+	<link rel="shortcut icon" href="/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#151519">
+	<meta name="msapplication-config" content="/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+
+	        
+			<title>Star Atlas</title>
+	
+    <meta name="description" content="A grand strategy game of space exploration, territorial conquest, political domination, and more.">
+    <meta property="og:description" content="A grand strategy game of space exploration, territorial conquest, political domination, and more.">
+    <meta property="og:title" content="Star Atlas">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://staratlas.com">
+    <meta property="og:image" content="https://staratlas.com/assets/images/star_atlas_social_share.png">
+
+    <meta name="twitter:title" content="Star Atlas">
+    <meta name="twitter:description" content="A grand strategy game of space exploration, territorial conquest, political domination, and more.">
+    <meta name="twitter:site" content="@staratlas">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://staratlas.com/assets/images/star_atlas_social_share.png">
+
+	<meta name="google-site-verification" content="C6EWH6TZMBxKOrOZStuaoB5odmfDZ-GbvxmDBp6IufI" />
+	<meta name="google-site-verification" content="UR2MRJ6VhDl6ltDmV_Y_CEFZa6TZ50BIPJKtzxEpgPQ" />
+	<meta name="google-site-verification" content="LONtIrKqJzWyU0GNrILGnSBYbgDxJIxBubZYZGEfAJM" />
+	<meta name="google-site-verification" content="wzTgkf85QmJtCKY5BZC9V-mGJ2MPsVW5M3N1oVE0GEQ" />
+	<meta name="facebook-domain-verification" content="an6sz4ejfv0sfyik1tkf0v7dt35erj" />
+
+	<link rel="stylesheet" href="/build/css/bundle-2df9adaca0.css" crossorigin>
+
+	<script src="//d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js"></script>
+	<script>Bugsnag.start({ apiKey: 'cc79bddd30a7b7e3b7f54a0d7a7b856a' })</script>
+
+	
+	<script>
+		const SFEventUrl = window.location.href.indexOf('website-tracking') > -1 ?
+			'https://dev.api.signalfox.com/api/v2/web_events/' : '';
+		window.SFLoad = window.location.href.indexOf('staratlas.com') > -1 || SFEventUrl !== '' ? true : false;
+
+		if (window.SFLoad) {
+			window.sfInit = function() {
+				sf.init({
+					appId : '248d43d3-d337-4751-a85e-0d2cd403f231',
+					context : '',
+					eventUrl : SFEventUrl
+				});
+
+				window.sf = sf;
+			};
+			(
+				function(w,d,o){
+					var a = d.createElement(o);
+					a.async=1;
+					a.src='https://signalfox.com/signalfoxv2.js';
+					var m = d.getElementsByTagName(o)[0];
+					m.parentNode.insertBefore(a,m)
+				}
+			)(window,document,'script');
+		}
+	</script>
+
+	<!-- -->
+	<script type="text/javascript"> adroll_adv_id = "NP6Q3SUMPVGMJHINDTBTY5"; adroll_pix_id = "7XRCJU5EPBDOXMJXJJKAPM"; adroll_version = "2.0";  (function(w, d, e, o, a) { w.__adroll_loaded = true; w.adroll = w.adroll || []; w.adroll.f = [ 'setProperties', 'identify', 'track' ]; var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id + "/roundtrip.js"; for (a = 0; a < w.adroll.f.length; a++) { w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) { return function() { w.adroll.push([ n, arguments ]) } })(w.adroll.f[a]) }  e = d.createElement('script'); o = d.getElementsByTagName('script')[0]; e.async = 1; e.src = roundtripUrl; o.parentNode.insertBefore(e, o); })(window, document); adroll.track("pageView"); </script>
+</head>
+
+<body>
+
+<div id="SiteWrapper">
+	<section class="HeaderModule">
+	<div class='TopBarInner'>
+		<div class="HeaderModule-logoNav">
+			<div class="BurgerMenu-icon">
+				<div class="BurgerMenu-icon-line"></div>
+				<div class="BurgerMenu-icon-line"></div>
+				<div class="BurgerMenu-icon-line"></div>
+			</div>
+			<a href='/' class='HeaderLogo'>
+				<svg class="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 689.35 109.2">
+					<g fill-rule="evenodd">
+						<path
+							d="M644.06 18.24a7.93 7.93 0 00-.28 15.84h19.77a26.16 26.16 0 01.12 52.32H624a2.48 2.48 0 01-2.32-1.84l-5.76-14.08a1.59 1.59 0 011.36-2.32h46.4a7.92 7.92 0 000-15.84h-19.57a26 26 0 01-25.8-26.16A26 26 0 01644.11 0h41c1.26 0 2.28.83 1.85 1.84l-6.25 14.56a2.79 2.79 0 01-2.33 1.84h-34.32M368.2 34.08l-21.8 49.44c-.72 1.59-1.1 2.87-2.68 2.87h-14.4c-2.07 0-3.21-.57-2.2-2.87l35.21-80.94c.72-1.35 1.17-2.34 2.75-2.34h6.24c1.58 0 2 1 2.75 2.34l35.21 81c1 2.3-.14 2.87-2.2 2.87h-14.4c-1.59 0-2-1.28-2.68-2.87l-21.8-49.5M475.91 86.4a1.84 1.84 0 01-1.84-1.84V1.84A1.84 1.84 0 01475.91 0h14.55a1.85 1.85 0 011.85 1.84v66.32h37a1.58 1.58 0 011.37 2.32l-6 14.08a2.6 2.6 0 01-2.57 1.84h-46.2M424.15 18.24H401a1.84 1.84 0 01-1.84-1.84V1.84A1.84 1.84 0 01401 0h64.5a1.85 1.85 0 011.85 1.84V16.4a1.85 1.85 0 01-1.85 1.84h-23.11v66.32a1.85 1.85 0 01-1.85 1.84H426a1.84 1.84 0 01-1.84-1.84V18.24M573.09 34.08l-21.8 49.44c-.72 1.59-1.1 2.87-2.68 2.87h-14.4c-2.07 0-3.21-.57-2.2-2.87l35.21-80.94c.72-1.35 1.16-2.34 2.75-2.34h6.23c1.59 0 2 1 2.76 2.34l35.21 81c1 2.3-.14 2.87-2.2 2.87h-14.4c-1.59 0-2-1.28-2.68-2.87l-21.8-49.44M224.39 0h38.72c15 0 27.12 12.53 27.12 28a28 28 0 01-16.64 25.79l20 29.78c.48 2.3-.86 2.87-2.92 2.87h-15.14c-1.59 0-2.2-1.52-3.16-2.87l-19.1-27.6h-12.48v28.59a1.85 1.85 0 01-1.85 1.84h-14.55a1.84 1.84 0 01-1.84-1.84V1.84A1.84 1.84 0 01224.39 0zm38.72 18.24h-22.32v19.44h22.32a9.68 9.68 0 000-19.36zM175.53 34.08l-21.8 49.44c-.72 1.59-1.09 2.87-2.68 2.87h-14.4c-2.06 0-3.2-.57-2.2-2.87l35.22-80.94c.72-1.35 1.16-2.34 2.75-2.34h6.23c1.59 0 2 1 2.75 2.34l35.22 81c1 2.3-.14 2.87-2.21 2.87H200c-1.58 0-1.95-1.28-2.67-2.87l-21.8-49.5M99.43 18.24h-26c-1.26 0-2.06-.83-1.44-2.32l6.08-14.08c.3-.72 1.06-1.84 2.08-1.84h60.63a1.85 1.85 0 011.85 1.84V16.4a1.85 1.85 0 01-1.85 1.84h-23.11v66.32a1.85 1.85 0 01-1.85 1.84h-14.55a1.84 1.84 0 01-1.84-1.84V18.24"
+							fill="#17181d" />
+						<path
+							d="M27.5 18.24a7.93 7.93 0 00-.28 15.84H47a26.16 26.16 0 01.12 52.32H1.91c-1.26 0-2.17-1.07-1.84-1.84l6-14.56a2.5 2.5 0 012.08-1.84h39a7.92 7.92 0 000-15.84h-19.6a26 26 0 01-25.8-26.16A26 26 0 0127.55 0h42c1 0 2 .71 1.61 1.84L64.87 16.4a2.47 2.47 0 01-2.33 1.84h-35"
+							fill="#17181D" />
+						<path fill="#17181D" d="M368.23 109.2l-14.4-28.8h28.32l-13.92 28.8" />
+					</g>
+				</svg>
+			</a>
+		</div>
+		<div class='TopBarCtas'>
+								</div>
+	</div>
+</section>
+	<div class="MainMenu-CoverLayer bgNoise">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 239">
+		<g fill="none" fill-rule="evenodd">
+			<path
+				d="M96.833 99.317L79.538 135 61.647 99.317h35.186zM83.373 0c1.969 0 2.524 1.227 3.419 2.893l43.75 100.298c1.244 2.855-.17 3.558-2.735 3.558l-17.892-.008c-1.97 0-2.434-1.593-3.328-3.557L79.5 41.927l-27.087 61.257c-.895 1.964-1.36 3.557-3.329 3.557l-17.891.008c-2.566 0-3.98-.703-2.734-3.558L72.208 2.893C73.102 1.227 73.658 0 75.627 0h7.747z"
+				fill="#D5D2D1" fill-rule="nonzero" />
+			<path stroke="#D5D2D1" stroke-width="2" stroke-dasharray="2,6" d="M0 205.5h160" />
+			<path
+				d="M38.982 238.183c.073 0 .11-.033.11-.099v-.902c0-.066-.037-.099-.11-.099H36.21v-5.896c0-.066-.033-.099-.099-.099H35.11c-.073 0-.11.033-.11.099v6.897c0 .066.037.099.11.099h3.872zm10.811.088c.968 0 1.648-.154 2.04-.462.393-.308.589-.807.589-1.496v-3.355c0-.69-.196-1.188-.588-1.496-.393-.308-1.073-.462-2.041-.462h-.066c-.968 0-1.65.154-2.046.462-.396.308-.594.807-.594 1.496v3.355c0 .69.198 1.188.594 1.496.396.308 1.078.462 2.046.462h.066zm0-1.1h-.066c-.587 0-.972-.059-1.155-.176-.183-.117-.275-.345-.275-.682v-3.355c0-.337.092-.565.275-.682.183-.117.568-.176 1.155-.176h.066c.58 0 .96.059 1.144.176.183.117.275.345.275.682v3.355c0 .337-.092.565-.275.682-.183.117-.565.176-1.144.176zm11.79 1.012c.066 0 .11-.026.132-.077l.484-1.441h2.442l.484 1.441c.022.051.062.077.121.077h1.056c.059 0 .088-.026.088-.077l-.011-.033-2.376-6.908c-.022-.051-.062-.077-.121-.077h-.924c-.059 0-.099.026-.121.077l-2.387 6.908c-.015.073.015.11.088.11h1.045zm2.684-2.607h-1.705l.374-1.122c.227-.638.389-1.192.484-1.661.088.425.246.979.473 1.661l.374 1.122zm13.033 2.607c.902 0 1.547-.154 1.936-.462.389-.308.583-.8.583-1.474v-3.223c0-.675-.194-1.166-.583-1.474-.389-.308-1.034-.462-1.936-.462h-2.453c-.073 0-.11.033-.11.099v6.897c0 .066.037.099.11.099H77.3zm-.132-1.1h-1.221v-4.895h1.221c.594 0 .983.057 1.166.17.183.114.275.336.275.666v3.223c0 .33-.092.552-.275.665-.183.114-.572.171-1.166.171zm12.604 1.1c.066 0 .099-.033.099-.099v-6.897c0-.066-.033-.099-.099-.099h-1.001c-.073 0-.11.033-.11.099v6.897c0 .066.037.099.11.099h1.001zm10.162 0c.066 0 .099-.033.099-.099v-3.201c0-.711-.018-1.371-.055-1.98.264.616.62 1.276 1.067 1.98l1.969 3.234c.037.044.077.066.121.066h1.089c.073 0 .11-.033.11-.099v-6.897c0-.066-.037-.099-.11-.099h-1.001c-.066 0-.099.033-.099.099v3.201c0 .726.018 1.393.055 2.002a8.61 8.61 0 00-.473-.968 23.82 23.82 0 00-.594-1.034l-1.969-3.234a.138.138 0 00-.121-.066h-1.089c-.073 0-.11.033-.11.099v6.897c0 .066.037.099.11.099h1.001zm15.904.088c.946 0 1.615-.154 2.008-.462.392-.308.588-.807.588-1.496v-1.826c0-.073-.033-.11-.099-.11h-2.376c-.066 0-.099.037-.099.11v.858c0 .073.033.11.099.11h1.265v.858c0 .337-.09.565-.27.682-.18.117-.551.176-1.116.176h-.066c-.565 0-.937-.059-1.117-.176-.18-.117-.269-.345-.269-.682v-3.355c0-.337.09-.565.27-.682.18-.117.551-.176 1.116-.176h.066c.565 0 .937.059 1.117.176.18.117.269.345.269.682v.154c0 .066.033.099.099.099h1.012c.066 0 .099-.033.099-.099v-.154c0-.69-.196-1.188-.588-1.496-.393-.308-1.062-.462-2.008-.462h-.066c-.946 0-1.615.154-2.008.462-.392.308-.588.807-.588 1.496v3.355c0 .69.196 1.188.588 1.496.393.308 1.062.462 2.008.462h.066z"
+				fill="#CFCDCB" fill-rule="nonzero" />
+		</g>
+	</svg>
+</div>
+<div class="MainMenu-Background"></div>
+<div class="MainMenu-Background-overlay">
+	<picture>
+		<source data-srcset="/assets/images/menu_background_colored_ring.webp" type="image/webp">
+		<source data-srcset="/assets/images/menu_background_colored_ring.png" type="image/png">
+		<img data-src="/assets/images/menu_background_colored_ring.webp" class="lazyload">
+	</picture>
+</div>
+<div class="MainMenu-Background-circles"><img class="desktop" src="/assets/svg/menu_circles.svg" /><img class="mobile" src="/assets/svg/menu_circles_mobile.svg" /></div>
+<div class="MainMenu">
+	<div class="MainMenu-CloseIcon">
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+			<path d="M9.6.65l1.415 1.415-8.486 8.485-1.414-1.414 3.536-3.535-3.536-3.536L2.53.651l3.536 3.536L9.601.65zm-.707 6.365l2.122 2.121L9.6 10.55 7.479 8.43l1.414-1.414z" fill="#f93c04"
+				  fill-rule="evenodd" />
+		</svg>
+	</div>
+	<nav class="Menu-FadeIn">
+			</nav>
+	<div class="Menu-FadeIn MainMenu-secondaryLinks">
+					</div>
+	<div class="Menu-FadeIn MainMenu-newsletter borderBottomDotted">
+			</div>
+	<div class="Menu-FadeIn MainMenu-listingLinks">
+			</div>
+	<div class="Menu-FadeIn MenuSocials">
+		<div class="SocialsList">
+																										</div>
+	</div>
+	<div class="Menu-FadeIn MainMenu-tertiaryLinks">
+			</div>
+	</div>
+
+
+
+
+
+	<div id="TemplateLayer">
+			<div data-template="ErrorTemplate" data-title="Error 404" data-description="A grand strategy game of space exploration, territorial conquest, political domination, and more." class="template ErrorTemplate Error-404">
+
+		<div class="container">
+			<div class="innerContainer">
+
+				<div class="content">
+											<h1 class="status">
+							<b>Sorry, something went wrong.</b></h1>
+						<p>This content could not be found. It may have been removed or changed location.<br />Error: 404</p>
+						<a href="/" class='ButtonCta gradient arrowed'>
+							<span>Return Home</span>
+							<span class='arrow'></span>
+						</a>
+									</div>
+
+			</div>
+		</div>
+
+	</div>
+	</div>
+
+	<div class="CookieBar">
+	<div class="wrapper">
+		<div class="cta">
+			<p>
+				We use cookies to enhance your experience and analyze our site usage.
+				Please see our <a href='/privacy-policy' target='_blank'>Privacy Policy</a>
+				for more information.
+			</p>
+		</div>
+		<div>
+			<a href="#" class="ButtonCta arrowed allowCookies">
+				<span class="title">Accept Cookies</span>
+				<span class="arrow"></span>
+			</a>
+		</div>
+	</div>
+
+	<button class="CookieBar-close"><?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 8.5 8.5" style="enable-background:new 0 0 8.5 8.5;" xml:space="preserve">
+<style type="text/css">
+	.stCross{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="MOBILE">
+	<g id="M-102.05-IMAGE-POPIN" transform="translate(-319.000000, -135.000000)">
+		<g id="CLOSE" transform="translate(295.000000, 111.000000)">
+				<g id="Group" transform="translate(32.000000, 32.000000) rotate(-45.000000) translate(-32.000000, -32.000000) translate(27.000000, 27.000000)">
+					<rect id="Rectangle" x="4" y="-5.3" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 10 -0.6274)" class="stCross" width="2" height="10"/>
+					<rect id="Rectangle-Copy" x="0" y="-1.3" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 10 -0.6274)" class="stCross" width="10" height="2"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
+</button>
+</div>
+
+</div>
+<script type="module" src="/build/js/main-b9f8fc3e35.js" crossorigin></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-45GKDW0P4G"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-45GKDW0P4G', { client_storage: 'none', 'anonymize_ip': true });
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '981266265778161');
+	fbq('track', 'PageView');
+	window.fb = fbq;
+</script>
+<noscript>
+	<img height="1" width="1"
+		 src="https://www.facebook.com/tr?id=981266265778161&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/20489070.js"></script>
+<!-- End of HubSpot Embed Code -->
+</body>
+</html>
